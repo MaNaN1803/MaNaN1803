@@ -1,10 +1,12 @@
-# 👋 Hi there, I'm Manan Telrandhe!
+![235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf](https://github.com/user-attachments/assets/86cabf83-e170-4054-b8d2-5d3c974e4193)# 👋 Hi there, I'm Manan Telrandhe!
 
 Welcome to my GitHub profile! I’m a passionate and driven Computer Science Engineering student, with a deep interest in Web and App Development, Competitive Coding, UI/UX Design, and Cloud Computing. This space is where I showcase my journey through technology, innovation, and continuous learning.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue)](https://bit.ly/manan_dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue)](https://www.linkedin.com/in/manan-telrandhe/)
 [![Email](https://img.shields.io/badge/Email-telrandhemanan%40gmail.com-blue)](mailto:telrandhemanan@gmail.com)
+
+https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif
 
 ## 🚀 About Me
 
