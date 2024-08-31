@@ -1,4 +1,4 @@
-![235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf](https://github.com/user-attachments/assets/86cabf83-e170-4054-b8d2-5d3c974e4193)# 👋 Hi there, I'm Manan Telrandhe!
+# 👋 Hi there, I'm Manan Telrandhe!
 
 Welcome to my GitHub profile! I’m a passionate and driven Computer Science Engineering student, with a deep interest in Web and App Development, Competitive Coding, UI/UX Design, and Cloud Computing. This space is where I showcase my journey through technology, innovation, and continuous learning.
 
@@ -6,15 +6,15 @@ Welcome to my GitHub profile! I’m a passionate and driven Computer Science Eng
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue)](https://www.linkedin.com/in/manan-telrandhe/)
 [![Email](https://img.shields.io/badge/Email-telrandhemanan%40gmail.com-blue)](mailto:telrandhemanan@gmail.com)
 
-https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+<br>
 ## 🚀 About Me
 
 - 🎓 **Education**: Pursuing a Bachelor's degree in Computer Science Engineering at Acropolis Institute of Technology and Research, Indore.
 - 💼 **Experience**: Former Web Developer Intern at Oasis Infobyte, where I developed full-stack landing pages and backend APIs.
 - 🌱 **Currently Learning**: Deepening my knowledge in cloud computing and advanced JavaScript frameworks.
 - 👯 **Looking to Collaborate**: Open to opportunities in web development, app development, and machine learning projects.
-- ⚡ **Fun Fact**: I’m a competitive coder and have won several hackathons and coding competitions.
+- ⚡ **Fun Fact**: I’m a competitive coder and have won hackathons and coding competitions.
 
 ## 🛠️ Skills & Technologies
 
@@ -43,6 +43,8 @@ https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-
 
 - **[Pulse Stock - Stock Market Trend Prediction Web App](#)**: An ML-based web application for predicting stock market trends, developed during a 36-hour hackathon.  
   *Tech Stack: React.js, Node.js, Express.js, Python, Firebase, TensorFlow.*
+  <br>
+   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400">
 
 ## 🎖️ Achievements
 
