@@ -46,13 +46,22 @@ Welcome to my GitHub profile! I’m a passionate and driven Computer Science Eng
 
 - **TechQuest Winner**: Champion of a coding quest competition.
 - **Postman API Student Expert**: Achieved recognition as a certified Postman API expert.
-- **NDA Exam**: Cleared the National Defence Academy Exam and was selected for a 5-Day SSB Interview.
+- **NPTEL – DBMS (Elite Rank)**
+- **Senior Bal Vigyan Winner**
+- **Coderush: IVP Hackathon Semi-Finalist**
+- **Cleared National Defence Academy Exam**: Selected for a 5-Day SSB Interview.
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue)](https://www.linkedin.com/in/manan-telrandhe/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-blue)](https://github.com/MaNaN1803)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue)](https://bit.ly/manan_dev)
+
+## 🎨 Extracurricular Activities
+
+- **Developed**: [AITR ACM Student Chapter Website](https://aitr.acm.org)
+- **Member of AITR ACM Student Chapter**: Web Master (present), Web Developer (2023-2022)
+- **RGPV Nodal Player**: Actively participated in state-level sports events.
 
 ---
 
