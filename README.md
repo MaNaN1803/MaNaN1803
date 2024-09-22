@@ -33,6 +33,9 @@ Welcome to my GitHub profile! I’m a passionate and driven Computer Science Eng
 
 ## 💼 Projects
 
+- **[PrepTrackAI - AI-powered Interview Platform](https://preptrackai.vercel.app/)**: A platform designed to simulate interviews with real-time AI feedback and multilingual support user-centric design and many more....  
+  *Tech Stack: Next.js,PostgreSQL, Drizzle ORM,Neon, Clerk for authentication, Gemini AI.*
+
 - **[UniFind - Lost and Found Web App](#)**: A web application revolutionizing lost and found item management with features like an admin panel, request validation, real-time notifications, and community chat.  
   *Tech Stack: React.js, Node.js, Express.js, MongoDB, Web-Sockets, Figma, Google APIs.*
 
