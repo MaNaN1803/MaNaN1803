@@ -10,12 +10,11 @@ Welcome to my GitHub profile! I’m a passionate and driven Computer Science Eng
 <br>
 
 ## 🚀 About Me
+Tech-savvy software developer 🖥️, eager to contribute coding expertise to dynamic teams 🤝. Seeking compelling opportunities to innovate 🚀 and enhance technological landscapes for organizations, leveraging adaptability 🧩, passion ❤️, and a strong sports foundation 🏅.
 
 - 🎓 **Education**: Pursuing a Bachelor's degree in Computer Science Engineering at Acropolis Institute of Technology and Research, Indore.
-- 💼 **Experience**: Former Web Developer Intern at Oasis Infobyte, where I developed full-stack landing pages and backend APIs.
 - 🌱 **Currently Learning**: Deepening my knowledge in cloud computing and advanced JavaScript frameworks.
 - 👯 **Looking to Collaborate**: Open to opportunities in web development, app development, and machine learning projects.
-- ⚡ **Fun Fact**: I’m a competitive coder and have won hackathons and coding competitions.
 
 ## 🛠️ Skills & Technologies
 
