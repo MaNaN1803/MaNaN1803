@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m a passionate and driven Computer Science Engineering student, with a deep interest in Web and App Development, Competitive Coding, UI/UX Design, and Cloud Computing. This space is where I showcase my journey through technology, innovation, and continuous learning.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue)](https://bit.ly/manan_dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue)](https://manan18.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue)](https://www.linkedin.com/in/manan-telrandhe/)
 [![Email](https://img.shields.io/badge/Email-telrandhemanan%40gmail.com-blue)](mailto:telrandhemanan@gmail.com)
 
