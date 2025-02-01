@@ -1,12 +1,21 @@
-# 👋 Hi there, I'm Manan Telrandhe!
+<div align="center">
+  <h1>🚀Hi I'm Manan Telrandhe</h1>
+ 
+  <p>Passionate Computer Science Engineering student | Web & App Developer | UI/UX Designer | Cloud Enthusiast</p>
+  
+  <a href="https://manan18.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/manan-telrandhe/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue" alt="LinkedIn"></a>
+  <a href="mailto:telrandhemanan@gmail.com"><img src="https://img.shields.io/badge/Email-telrandhemanan%40gmail.com-blue" alt="Email"></a>
+</div>
 
-Welcome to my GitHub profile! I’m a passionate and driven Computer Science Engineering student, with a deep interest in Web and App Development, Competitive Coding, UI/UX Design, and Cloud Computing. This space is where I showcase my journey through technology, innovation, and continuous learning.
+<table align="center" cellpadding="100">
+  <tr>
+    <td><img src="https://streak-stats.demolab.com/?user=MaNaN1803&theme=dark" alt="GitHub Streak" /></td>
+    <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJsYTZoYjR0d25taXV3dDV3cDhyOW4wZmlycnh5cDJsM3BkazJ0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/co311YPzZrDlMl4Z7p/giphy.gif" width="200"/></td>
+  </tr>
+</table>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue)](https://manan18.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue)](https://www.linkedin.com/in/manan-telrandhe/)
-[![Email](https://img.shields.io/badge/Email-telrandhemanan%40gmail.com-blue)](mailto:telrandhemanan@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
 <br>
 
 ## 🚀 About Me
@@ -50,7 +59,7 @@ Tech-savvy software developer 🖥️, eager to contribute coding expertise to d
    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400">
 
 ## 🎖️ Achievements
-
+- **World-Wide Ranking**: Secured Global Rank 80 in TCS CodeVita Round 2 and Rank 2362 in Round 1.
 - **TechQuest Winner**: Champion of a coding quest competition.
 - **Postman API Student Expert**: Achieved recognition as a certified Postman API expert.
 - **NPTEL – DBMS (Elite Rank)**
