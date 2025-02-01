@@ -8,12 +8,11 @@
   <a href="mailto:telrandhemanan@gmail.com"><img src="https://img.shields.io/badge/Email-telrandhemanan%40gmail.com-blue" alt="Email"></a>
 </div>
 
-<table align="center" cellpadding="100">
-  <tr>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MaNaN1803&theme=dark&border_radius=11.6&date_format=%5BY%20%5DM%20j&fire=EB4003" alt="GitHub Streak" /></a></td>
-    <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJsYTZoYjR0d25taXV3dDV3cDhyOW4wZmlycnh5cDJsM3BkazJ0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/co311YPzZrDlMl4Z7p/giphy.gif" width="200"/></td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaNaN1803/MaNaN1803/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaNaN1803/MaNaN1803/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MaNaN1803/MaNaN1803/output/github-snake.svg" />
+</picture>
 
 
 <br>
