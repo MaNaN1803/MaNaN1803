@@ -10,7 +10,7 @@
 
 <table align="center" cellpadding="100">
   <tr>
-    <td><img src="https://streak-stats.demolab.com/?user=MaNaN1803&theme=dark" alt="GitHub Streak" /></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MaNaN1803&theme=dark&border_radius=11.6&date_format=%5BY%20%5DM%20j&fire=EB4003" alt="GitHub Streak" /></a></td>
     <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJsYTZoYjR0d25taXV3dDV3cDhyOW4wZmlycnh5cDJsM3BkazJ0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/co311YPzZrDlMl4Z7p/giphy.gif" width="200"/></td>
   </tr>
 </table>
