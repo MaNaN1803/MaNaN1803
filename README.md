@@ -14,6 +14,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/MaNaN1803/MaNaN1803/output/github-snake.svg" />
 </picture>
 
+[![An image of @manan1803's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manan1803)](https://holopin.io/@manan1803)
 
 <br>
 
