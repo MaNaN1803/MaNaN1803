@@ -3,7 +3,7 @@
  
   <p>Passionate Computer Science Engineering student | Web & App Developer | UI/UX Designer | Cloud Enthusiast</p>
   
-  <a href="https://manan18.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue" alt="Portfolio"></a>
+  <a href="https://www.manan18.xyz"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/manan-telrandhe/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue" alt="LinkedIn"></a>
   <a href="mailto:telrandhemanan@gmail.com"><img src="https://img.shields.io/badge/Email-telrandhemanan%40gmail.com-blue" alt="Email"></a>
 </div>
